@@ -4,7 +4,7 @@
 **英文名称：** AI-Empowered Physics Research: Tools, Methods and Frontiers  
 **作者：** 周毅，中国科学院物理研究所  
 **授课语言：** 中文（专业术语中英对照）  
-**本次上传日期：** 2026-10-06
+**本次上传日期：** 2026-10-07
 
 本目录收录课程大纲及第 1—4 讲的教学材料 PDF：讲义、课堂幻灯片与
 课后任务材料。课程以可验证、可复现、责任明确的 AI4Physics
@@ -15,12 +15,13 @@
 
 ## 文件说明
 
-每讲材料按三类组织：
+每讲材料按三类分目录组织；课程大纲位于本目录根下：
 
-- **讲义**（`AI4Phys-N.pdf`）：A4 课程讲义，学生主要阅读材料。
-- **课堂幻灯片**（`AI4Phys-N-beamer.pdf`）：16:9 教学幻灯片，由讲义派生，含课堂活动安排。
-- **课后任务材料**（`AI4Phys-N-homework.pdf`）：可填写 PDF 表单，含作业要求、提交清单与自检表。
-- **课堂审计卡**（`AI4Phys-N-auditcard.pdf`）：课内使用的可填写表单，与幻灯片的课堂活动一一对应；本批次起收录第 4 讲协写审计卡（其附录为课堂演示的输入材料）。
+- **讲义**（`LectureNote/AI4Phys-N.pdf`）：A4 课程讲义，学生主要阅读材料。
+- **课堂幻灯片**（`Slides/AI4Phys-N-beamer.pdf`）：16:9 教学幻灯片，由讲义派生，含课堂活动安排。
+- **课后任务材料**（`HomeWork/AI4Phys-N-homework.pdf`）：可填写 PDF 表单，含作业要求、提交清单与自检表。
+
+课堂审计卡为课内使用材料，不收录于本目录。
 
 可填写 PDF 表单需使用支持 AcroForm 表单填写的 PDF 阅读器。
 
@@ -39,17 +40,17 @@
 
 | 文件 | 内容 | 页数 |
 |---|---|---:|
-| `AI4Phys-1.pdf` | 讲义 | 17 |
-| `AI4Phys-1-beamer.pdf` | 课堂幻灯片 | 44 |
-| `AI4Phys-1-homework.pdf` | 课后任务材料（可填写表单） | 3 |
+| `LectureNote/AI4Phys-1.pdf` | 讲义 | 17 |
+| `Slides/AI4Phys-1-beamer.pdf` | 课堂幻灯片 | 44 |
+| `HomeWork/AI4Phys-1-homework.pdf` | 课后任务材料（可填写表单） | 3 |
 
 ### 第 2 讲：LLM 辅助文献、推导与问题定义
 
 | 文件 | 内容 | 页数 |
 |---|---|---:|
-| `AI4Phys-2.pdf` | 讲义 | 16 |
-| `AI4Phys-2-beamer.pdf` | 课堂幻灯片 | 46 |
-| `AI4Phys-2-homework.pdf` | 课后任务材料：作业 1（可填写表单） | 5 |
+| `LectureNote/AI4Phys-2.pdf` | 讲义 | 16 |
+| `Slides/AI4Phys-2-beamer.pdf` | 课堂幻灯片 | 46 |
+| `HomeWork/AI4Phys-2-homework.pdf` | 课后任务材料：作业 1（可填写表单） | 5 |
 
 ### Lecture 2.5：Transformer 架构与 Agent 使用经验（特邀讲座）
 
@@ -60,20 +61,19 @@
 
 | 文件 | 内容 | 页数 |
 |---|---|---:|
-| `AI4Phys-3.pdf` | 讲义 | 15 |
-| `AI4Phys-3-beamer.pdf` | 课堂幻灯片 | 45 |
-| `AI4Phys-3-homework.pdf` | 课后任务材料：作业 2（可填写表单） | 4 |
+| `LectureNote/AI4Phys-3.pdf` | 讲义 | 15 |
+| `Slides/AI4Phys-3-beamer.pdf` | 课堂幻灯片 | 45 |
+| `HomeWork/AI4Phys-3-homework.pdf` | 课后任务材料：作业 2（可填写表单） | 4 |
 
 ### 第 4 讲：科学写作、披露与研究责任
 
 | 文件 | 内容 | 页数 |
 |---|---|---:|
-| `AI4Phys-4.pdf` | 讲义 | 16 |
-| `AI4Phys-4-beamer.pdf` | 课堂幻灯片 | 43 |
-| `AI4Phys-4-homework.pdf` | 课后任务材料：作业 3（可填写表单） | 6 |
-| `AI4Phys-4-auditcard.pdf` | 课堂协写审计卡（可填写表单，附录为课堂已核查的 SSH 最小上下文材料） | 2 |
+| `LectureNote/AI4Phys-4.pdf` | 讲义 | 16 |
+| `Slides/AI4Phys-4-beamer.pdf` | 课堂幻灯片 | 43 |
+| `HomeWork/AI4Phys-4-homework.pdf` | 课后任务材料：作业 3（可填写表单） | 6 |
 
-以上十四份材料合计 298 页，约 5.5 MiB。
+以上十三份材料合计 296 页，约 5.3 MiB。
 
 ## 阅读顺序
 
@@ -86,6 +86,14 @@ Lecture 2.5 特邀讲座与 Lecture 4.5 桥接单元。本批次包含第 1—4 
 后续讲次的材料将在定稿后继续补充。
 
 ## 更新记录
+
+### 2026-10-07
+
+- 各讲课堂幻灯片标题页二维码改指课程 GitHub 仓库（github.com/yizhou76-sudo/AI-for-Physics-Lecture）；第 1—4 讲幻灯片其余内容与页数不变。
+- 课程大纲同步修订：第 4.5、5 讲"逻辑回归"统一改译为"对数几率回归（log-odds regression）"，仍 36 页。
+- 目录结构调整：讲义、课堂幻灯片、课后任务材料分别收入 `LectureNote/`、`Slides/`、`HomeWork/` 子目录；课程大纲仍在根目录。
+- 课堂审计卡调整为课内使用材料，不再收录于发布目录（含此前已发布的第 4 讲协写审计卡）。
+- 本批次仍仅提供 PDF 版本，不包含 LaTeX 源文件。
 
 ### 2026-10-06
 
