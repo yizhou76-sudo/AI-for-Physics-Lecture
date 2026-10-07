@@ -1,15 +1,12 @@
-# AI-for-Physics-Lecture
-Materials for the graduate course 'AI-Empowered Physics Research: Tools, Methods and Frontiers' (Yi Zhou, IOP, CAS): syllabus plus lecture notes, slides, and homework PDFs (in Chinese), starting with Lectures 1–3 and updated as the course progresses. AI proposes candidates; the researcher establishes the conclusion.
-
-# AI 赋能的物理学研究：课程大纲与教学材料（第 1—3 讲）
+# AI 赋能的物理学研究：课程大纲与教学材料（第 1—4 讲）
 
 **课程名称：** AI 赋能的物理学研究：工具、方法与前沿  
 **英文名称：** AI-Empowered Physics Research: Tools, Methods and Frontiers  
 **作者：** 周毅，中国科学院物理研究所  
 **授课语言：** 中文（专业术语中英对照）  
-**本次上传日期：** 2026-09-27
+**本次上传日期：** 2026-10-06
 
-本目录收录课程大纲及第 1—3 讲的教学材料 PDF：讲义、课堂幻灯片与
+本目录收录课程大纲及第 1—4 讲的教学材料 PDF：讲义、课堂幻灯片与
 课后任务材料。课程以可验证、可复现、责任明确的 AI4Physics
 研究工作流为主线，强调：
 
@@ -23,11 +20,12 @@ Materials for the graduate course 'AI-Empowered Physics Research: Tools, Methods
 - **讲义**（`AI4Phys-N.pdf`）：A4 课程讲义，学生主要阅读材料。
 - **课堂幻灯片**（`AI4Phys-N-beamer.pdf`）：16:9 教学幻灯片，由讲义派生，含课堂活动安排。
 - **课后任务材料**（`AI4Phys-N-homework.pdf`）：可填写 PDF 表单，含作业要求、提交清单与自检表。
+- **课堂审计卡**（`AI4Phys-N-auditcard.pdf`）：课内使用的可填写表单，与幻灯片的课堂活动一一对应；本批次起收录第 4 讲协写审计卡（其附录为课堂演示的输入材料）。
 
 可填写 PDF 表单需使用支持 AcroForm 表单填写的 PDF 阅读器。
 
 作业编号说明：第 1 讲为课后任务（含五项提交），编号作业自第 2 讲起——
-第 2 讲课后任务材料含作业 1，第 3 讲课后任务材料含作业 2。
+第 2 讲课后任务材料含作业 1，第 3 讲课后任务材料含作业 2，第 4 讲课后任务材料含作业 3。
 
 ## 文件清单
 
@@ -35,7 +33,7 @@ Materials for the graduate course 'AI-Empowered Physics Research: Tools, Methods
 
 | 文件 | 内容 | 版本日期 | 页数 |
 |---|---|---:|---:|
-| `AI4Phys-syllabus.pdf` | 研究生课程教学大纲，第 7 版（特邀讲座桥接） | 2026-09 | 37 |
+| `AI4Phys-syllabus.pdf` | 研究生课程教学大纲，第 7 版（特邀讲座桥接） | 2026-10 | 36 |
 
 ### 第 1 讲：可验证的 AI4Physics 研究工作流
 
@@ -66,19 +64,35 @@ Materials for the graduate course 'AI-Empowered Physics Research: Tools, Methods
 | `AI4Phys-3-beamer.pdf` | 课堂幻灯片 | 45 |
 | `AI4Phys-3-homework.pdf` | 课后任务材料：作业 2（可填写表单） | 4 |
 
-以上十份材料合计 232 页，约 4.1 MiB。
+### 第 4 讲：科学写作、披露与研究责任
+
+| 文件 | 内容 | 页数 |
+|---|---|---:|
+| `AI4Phys-4.pdf` | 讲义 | 16 |
+| `AI4Phys-4-beamer.pdf` | 课堂幻灯片 | 43 |
+| `AI4Phys-4-homework.pdf` | 课后任务材料：作业 3（可填写表单） | 6 |
+| `AI4Phys-4-auditcard.pdf` | 课堂协写审计卡（可填写表单，附录为课堂已核查的 SSH 最小上下文材料） | 2 |
+
+以上十四份材料合计 298 页，约 5.5 MiB。
 
 ## 阅读顺序
 
-建议先阅读课程大纲，再按讲次依次阅读第 1、2、3 讲讲义；
+建议先阅读课程大纲，再按讲次依次阅读第 1—4 讲讲义；
 Lecture 2.5 特邀讲座幻灯片可在第 2 讲后参考。
 课堂幻灯片对应课内环节使用，课后任务材料在相应讲次课后使用。
 
 课程大纲包含完整的十次正式课程设计，另设不计入正式课堂学时的
-Lecture 2.5 特邀讲座与 Lecture 4.5 桥接单元。本批次包含第 1—3 讲全套材料，
+Lecture 2.5 特邀讲座与 Lecture 4.5 桥接单元。本批次包含第 1—4 讲全套材料，
 后续讲次的材料将在定稿后继续补充。
 
 ## 更新记录
+
+### 2026-10-06
+
+- 新增第 4 讲全套材料：讲义、课堂幻灯片、课后任务材料（作业 3）与课堂协写审计卡。
+- 各讲课堂幻灯片标题页新增课程资料二维码（Zenodo DOI 10.5281/zenodo.23162061）；第 1—3 讲其余内容不变。
+- 课程大纲同步修订（版本日期更新为 2026 年 10 月，收录第 4 讲协写审计卡），当前 36 页。
+- 本批次仍仅提供 PDF 版本，不包含 LaTeX 源文件。
 
 ### 2026-09-27
 
